@@ -1,0 +1,13 @@
+@theme {
+  /* Fonts */
+  --font-serif: "Playfair Display", serif;
+  --font-script: "Great Vibes", cursive;
+  --font-sans: "Lato", sans-serif;
+
+  /* MeryArt Palette */
+  --color-mery-pink: #F2C6D6;
+  --color-mery-lavender: #D8D4EC;
+  --color-mery-mint: #D0E8E3;
+  --color-mery-ink: #1F1F1F;
+  --color-paper: #FAFAFA;
+}
